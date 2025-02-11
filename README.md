@@ -1,4 +1,6 @@
-## Hi there 👋
+## Svenja
+
+[![Discord Presence](https://lanyard.kyrie25.dev/api/128237634383380480)](https://discord.com/users/128237634383380480)
 
 <!--
 **setsutetsui/setsutetsui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
